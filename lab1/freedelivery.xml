@@ -1,0 +1,103 @@
+<?xml version="1.0" ?>
+<data>
+	<item>
+		<image>https://freedelivery.com.ua/image/cache/adaptive/catalog/product/114106/0.66-OLED-displey-64X48-I2C-Wemos-D1-D1-mini-sm-266x200.jpg</image>
+		<text>0.66 OLED дисплей 64X48, I2C Wemos D1, D1 mini</text>
+		<price>220.00грн.</price>
+	</item>
+	<item>
+		<image>https://freedelivery.com.ua/image/cache/adaptive/catalog/product/113601/1-kanalnoe-besprovodnoe-rele-12V-pult-Arduino-sm-266x200.jpg</image>
+		<text>1-канальное беспроводное реле 12В, пульт, Arduino</text>
+		<price>195.00грн.</price>
+	</item>
+	<item>
+		<image>https://freedelivery.com.ua/image/cache/adaptive/catalog/product/1-kanalnyiy-modul-rele-12V-dlya-Arduino-PIC-ARM-sm-266x200.jpg</image>
+		<text>1-канальный модуль реле 12V для Arduino PIC ARM</text>
+		<price>40.00грн.</price>
+	</item>
+	<item>
+		<image>https://freedelivery.com.ua/image/cache/adaptive/catalog/product/1________________56420e207b736-266x200.jpg</image>
+		<text>1-канальный модуль реле 5V для Arduino PIC ARM AVR</text>
+		<price>40.00грн.</price>
+	</item>
+	<item>
+		<image>https://freedelivery.com.ua/image/cache/adaptive/catalog/product/10_______________51ec0d672c4f2-266x200.jpg</image>
+		<text>10 х Коннектор 40pin папа 2.54 шаг Arduino Atmega</text>
+		<price>40.00грн.</price>
+	</item>
+	<item>
+		<image>https://freedelivery.com.ua/image/cache/adaptive/catalog/product/10_______________51ec0e308c436-266x200.jpg</image>
+		<text>10 х Коннектор угловой 40pin папа 2.54 шаг Arduino</text>
+		<price>55.00грн.</price>
+	</item>
+	<item>
+		<image>https://freedelivery.com.ua/image/cache/adaptive/catalog/product/10x_Dupont_______5414ada55c93b-266x200.jpg</image>
+		<text>10x Dupont Дюпон кабель мама-мама 20см для Arduino</text>
+		<price>30.00грн.</price>
+	</item>
+	<item>
+		<image>https://freedelivery.com.ua/image/cache/adaptive/catalog/product/10x_Dupont_______565b2d3fc8902-266x200.jpg</image>
+		<text>10x Dupont Дюпон кабель папа-мама 20см для Arduino</text>
+		<price>30.00грн.</price>
+	</item>
+	<item>
+		<image>https://freedelivery.com.ua/image/cache/adaptive/catalog/product/10x_Dupont_______56520cdca9c34-266x200.jpg</image>
+		<text>10x Dupont Дюпон кабель папа-папа 20см для Arduino</text>
+		<price>30.00грн.</price>
+	</item>
+	<item>
+		<image>https://freedelivery.com.ua/image/cache/adaptive/catalog/product/10x______________5526a6c87b3b7-266x200.jpg</image>
+		<text>10x Тестовая клипса, зажим для PCB, SMD, IC</text>
+		<price>45.00грн.</price>
+	</item>
+	<item>
+		<image>https://freedelivery.com.ua/image/cache/adaptive/catalog/product/112652/10x-colpachek-enkoder-sm-266x200.jpg</image>
+		<text>10х Колпачок ручка регулятор потенциометра энкодер</text>
+		<price>40.00грн.</price>
+	</item>
+	<item>
+		<image>https://freedelivery.com.ua/image/cache/adaptive/catalog/product/113845/10x-Konnektor-40pin-papa-2.54-shag-Arduino-tsvetnyie-sm-266x200.jpg</image>
+		<text>10х Коннектор 40pin папа 2.54 шаг, Arduino цветные</text>
+		<price>50.00грн.</price>
+	</item>
+	<item>
+		<image>https://freedelivery.com.ua/image/cache/adaptive/catalog/product/113844/10x-Konnektor-gnezdo-PCB-40pin-mama-2.54mm-Arduino-sm-266x200.jpg</image>
+		<text>10х Коннектор гнездо PCB 40pin мама 2.54мм Arduino</text>
+		<price>55.00грн.</price>
+	</item>
+	<item>
+		<image>https://freedelivery.com.ua/image/cache/adaptive/catalog/product/10_______________54efa17ba4daf-266x200.jpg</image>
+		<text>10х Тестовая клипса для логического анализатора</text>
+		<price>75.00грн.</price>
+	</item>
+	<item>
+		<image>https://freedelivery.com.ua/image/cache/adaptive/catalog/product/16________12_____54fb3abf7ec93-266x200.jpg</image>
+		<text>16-кан 12-бит ШИМ Серво контроллер PCA9685 Arduino</text>
+		<price>90.00грн.</price>
+	</item>
+	<item>
+		<image>https://freedelivery.com.ua/image/cache/adaptive/catalog/product/16_______________51512016e551d-266x200.jpg</image>
+		<text>16-канальный модуль реле 12V для Arduino PIC ARM</text>
+		<price>470.00грн.</price>
+	</item>
+	<item>
+		<image>https://freedelivery.com.ua/image/cache/adaptive/catalog/product/16_______________5376917dd8e60-266x200.jpg</image>
+		<text>16-канальный модуль реле 5V для Arduino PIC ARM</text>
+		<price>470.00грн.</price>
+	</item>
+	<item>
+		<image>https://freedelivery.com.ua/image/cache/adaptive/catalog/product/2________________515f365f5452f-266x200.jpg</image>
+		<text>2-канальный модуль реле 5V для Arduino PIC ARM AVR</text>
+		<price>70.00грн.</price>
+	</item>
+	<item>
+		<image>https://freedelivery.com.ua/image/cache/adaptive/catalog/product/111451/2kanals-audio-usilitel-3vt-sm-266x200.jpg</image>
+		<text>2-х канальный цифровой аудио усилитель 3Вт класс D</text>
+		<price>30.00грн.</price>
+	</item>
+	<item>
+		<image>https://freedelivery.com.ua/image/cache/adaptive/catalog/product/2.4______________54ef9e7f3871c-266x200.jpg</image>
+		<text>2.4 ЖК дисплей 320х240, тачскрин, microSD, Arduino</text>
+		<price>180.00грн.</price>
+	</item>
+</data>

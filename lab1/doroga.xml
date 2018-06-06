@@ -1,0 +1,281 @@
+<?xml version="1.0" ?>
+<data>
+	<page url="http://www.doroga.ua">
+		<fragment type="image">http://www.doroga.ua/Images/logo.png</fragment>
+		<fragment type="image">http://www.doroga.ua/Images/Temp/SearchButton.jpg</fragment>
+		<fragment type="image">http://www.doroga.ua/Images/ColoredLine.gif</fragment>
+		<fragment type="image">http://www.doroga.ua/Handlers/ContentImageHandler.ashx?ReportImageReportID=1983&amp;FileName=IMG_20180310_133010.jpg</fragment>
+		<fragment type="image">http://www.doroga.ua/Images/IconMoveLeft.gif</fragment>
+		<fragment type="image">http://www.doroga.ua/Images/IconMoveRight.gif</fragment>
+		<fragment type="image">http://www.doroga.ua/Handlers/ContentImageHandler.ashx?ArticleImageArticleID=1520&amp;FileName=100.jpg</fragment>
+		<fragment type="image">http://www.doroga.ua/Handlers/ContentImageHandler.ashx?ReportImageReportID=229&amp;FileName=балканы-закат-8-web.jpg</fragment>
+		<fragment type="image">http://www.doroga.ua/Handlers/ContentImageHandler.ashx?CatalogPOIPhotoCatalogPOIID=1261</fragment>
+		<fragment type="image">http://www.doroga.ua/Handlers/ContentImageHandler.ashx?CatalogPOIPhotoCatalogPOIID=2303</fragment>
+		<fragment type="image">http://www.doroga.ua/Handlers/ContentImageHandler.ashx?CatalogPOIPhotoCatalogPOIID=4091</fragment>
+		<fragment type="image">http://www.doroga.ua/Handlers/ContentImageHandler.ashx?CatalogPOIPhotoCatalogPOIID=4596</fragment>
+		<fragment type="image">http://c.bigmir.net/?v16793771&amp;s16793771&amp;t3</fragment>
+		<fragment type="image">http://top100-images.rambler.ru/top100/banner-88x31-rambler-black2.gif</fragment>
+		<fragment type="image">http://www.doroga.ua/Images/Loading.gif</fragment>
+		<fragment type="image">http://counter.rambler.ru/top100.cnt?1970450</fragment>
+		<fragment type="text">НАСЕЛЕННЫЙ ПУНКТ</fragment>
+		<fragment type="text">ДОСТОПРИМЕЧАТЕЛЬНОСТИ</fragment>
+		<fragment type="text">ГОСТИНИЦЫ</fragment>
+		<fragment type="text">РЕСТОРАНЫ</fragment>
+		<fragment type="text">ОТЧЕТЫ</fragment>
+		<fragment type="text">СТО</fragment>
+		<fragment type="text">Область</fragment>
+		<fragment type="text">Район</fragment>
+		<fragment type="text">Населенный пункт</fragment>
+		<fragment type="text">ОПИСАНИЕ</fragment>
+		<fragment type="text">НА КАРТЕ</fragment>
+		<fragment type="text">OK</fragment>
+		<fragment type="text">МОЙ МАРШРУТ</fragment>
+		<fragment type="text">Маршрут не задан.</fragment>
+		<fragment type="text">(Вы можете добавить в маршрут любой населенный пункт или объект каталога нажав на линк &quot;Добавить в маршрут&quot;)</fragment>
+		<fragment type="text">ПОСТРОИТЬ</fragment>
+		<fragment type="text">OK</fragment>
+		<fragment type="text">ПОСЛЕДНИЙ ОТЧЕТ</fragment>
+		<fragment type="text">Автор:</fragment>
+		<fragment type="text">Продолжительность:</fragment>
+		<fragment type="text">Пробег:</fragment>
+		<fragment type="text">3</fragment>
+		<fragment type="text">11</fragment>
+		<fragment type="text">48</fragment>
+		<fragment type="text">6</fragment>
+		<fragment type="text">14</fragment>
+		<fragment type="text">14</fragment>
+		<fragment type="text">РЕКОМЕНДУЕМ ПОСЕТИТЬ</fragment>
+		<fragment type="text">2</fragment>
+		<fragment type="text">9</fragment>
+		<fragment type="text">5</fragment>
+		<fragment type="text">25</fragment>
+		<fragment type="text">13</fragment>
+		<fragment type="text">16</fragment>
+		<fragment type="text">КАЛЕНДАРЬ СОБЫТИЙ</fragment>
+		<fragment type="text">Загружается...</fragment>
+		<fragment type="text">ПОСЛЕДНИЕ ОТЗЫВЫ</fragment>
+		<fragment type="text">Загружается...</fragment>
+		<fragment type="text">Горнолыжные курорты:</fragment>
+		<fragment type="text">Новости туризма:</fragment>
+		<fragment type="text">Новости туризма:</fragment>
+		<fragment type="text">Copyright © 2009-2018 &quot;Дорога.УА&quot;. Все права защищены.</fragment>
+		<fragment type="text">Использование материалов Doroga.UA разрешается при условии ссылки (для интернет-изданий - гиперссылки) на</fragment>
+		<fragment type="text">Doroga.UA. Перепечатка, копирование, а также любое другое воспроизведение информации, не содержащей ссылку на Doroga.UA,</fragment>
+		<fragment type="text">строго запрещено. Материалы, отмеченные знаком &quot;Реклама&quot;, публикуются на правах рекламы.</fragment>
+		<fragment type="text">Загружается...</fragment>
+	</page>
+	<page url="http://www.doroga.ua/Pages/News.aspx">
+		<fragment type="image">http://www.doroga.ua/Images/logo.png</fragment>
+		<fragment type="image">http://www.doroga.ua/Images/Temp/SearchButton.jpg</fragment>
+		<fragment type="image">http://www.doroga.ua/Images/ColoredLine.gif</fragment>
+		<fragment type="image">http://www.doroga.ua/Images/TitleLogo.gif</fragment>
+		<fragment type="image">http://c.bigmir.net/?v16793771&amp;s16793771&amp;t3</fragment>
+		<fragment type="image">http://top100-images.rambler.ru/top100/banner-88x31-rambler-black2.gif</fragment>
+		<fragment type="image">http://www.doroga.ua/Images/Loading.gif</fragment>
+		<fragment type="image">http://counter.rambler.ru/top100.cnt?1970450</fragment>
+		<fragment type="text">НАСЕЛЕННЫЙ ПУНКТ</fragment>
+		<fragment type="text">ДОСТОПРИМЕЧАТЕЛЬНОСТИ</fragment>
+		<fragment type="text">ГОСТИНИЦЫ</fragment>
+		<fragment type="text">РЕСТОРАНЫ</fragment>
+		<fragment type="text">ОТЧЕТЫ</fragment>
+		<fragment type="text">СТО</fragment>
+		<fragment type="text">Область</fragment>
+		<fragment type="text">Район</fragment>
+		<fragment type="text">Населенный пункт</fragment>
+		<fragment type="text">СПИСОК</fragment>
+		<fragment type="text">НА КАРТЕ</fragment>
+		<fragment type="text">OK</fragment>
+		<fragment type="text">МОЙ МАРШРУТ</fragment>
+		<fragment type="text">Маршрут не задан.</fragment>
+		<fragment type="text">(Вы можете добавить в маршрут любой населенный пункт или объект каталога нажав на линк &quot;Добавить в маршрут&quot;)</fragment>
+		<fragment type="text">ПОСТРОИТЬ</fragment>
+		<fragment type="text">OK</fragment>
+		<fragment type="text">Решение прошло общественные обсуждения, согласование с трудовым коллективом и одобрение профильными комиссиями Киевсовета.</fragment>
+		<fragment type="text">&quot;Укравтодор&quot; собирается переходить от практики текущих средних ремонтов к осуществлению капитальных реконструкций и строительству новых дорог.</fragment>
+		<fragment type="text">Более семи миллионов гривен планируют потратить на создание туристического маршрута на Тясминский каньон.</fragment>
+		<fragment type="text">Всемирно известный королевский парк цветов Кёкенхоф в Нидерландах в четверг, 22 марта, откроет новый сезон.</fragment>
+		<fragment type="text">Первый этап строительства завершится в 2022 году.</fragment>
+		<fragment type="text">По данным властей, на канатной дороге отключилось электричество. Кабинки с людьми начали на скорости спускаться с горы и сталкиваться друг с другом.</fragment>
+		<fragment type="text">Айя-Напу хотят превратить в престижный курорт для семейного отдыха.</fragment>
+		<fragment type="text">Полную программу одного из главных праздников Одессы “Юморина 2018” обнародовал Департамент культуры и туризма Одесского городского совета.</fragment>
+		<fragment type="text">В результате сильных снегопадов и метелей выпадет до 20-25 см снега, температура ночью опустится до 16 градусов мороза.</fragment>
+		<fragment type="text">Храм, который привлекает множество туристов, располагается над пропастью рядом с горой Казбек.</fragment>
+		<fragment type="text">Отображать:</fragment>
+		<fragment type="text">КАЛЕНДАРЬ СОБЫТИЙ</fragment>
+		<fragment type="text">Загружается...</fragment>
+		<fragment type="text">ПОСЛЕДНИЕ ОТЗЫВЫ</fragment>
+		<fragment type="text">Загружается...</fragment>
+		<fragment type="text">Новости туризма:</fragment>
+		<fragment type="text">Новости туризма:</fragment>
+		<fragment type="text">Новости туризма:</fragment>
+		<fragment type="text">Copyright © 2009-2018 &quot;Дорога.УА&quot;. Все права защищены.</fragment>
+		<fragment type="text">Использование материалов Doroga.UA разрешается при условии ссылки (для интернет-изданий - гиперссылки) на</fragment>
+		<fragment type="text">Doroga.UA. Перепечатка, копирование, а также любое другое воспроизведение информации, не содержащей ссылку на Doroga.UA,</fragment>
+		<fragment type="text">строго запрещено. Материалы, отмеченные знаком &quot;Реклама&quot;, публикуются на правах рекламы.</fragment>
+		<fragment type="text">Загружается...</fragment>
+	</page>
+	<page url="http://www.doroga.ua/Pages/Articles.aspx">
+		<fragment type="image">http://www.doroga.ua/Images/logo.png</fragment>
+		<fragment type="image">http://www.doroga.ua/Images/Temp/SearchButton.jpg</fragment>
+		<fragment type="image">http://www.doroga.ua/Images/ColoredLine.gif</fragment>
+		<fragment type="image">http://www.doroga.ua/Images/TitleLogo.gif</fragment>
+		<fragment type="image">http://www.doroga.ua/Handlers/ContentImageHandler.ashx?ArticleImageArticleID=1520&amp;FileName=100.jpg</fragment>
+		<fragment type="image">http://www.doroga.ua/Handlers/ContentImageHandler.ashx?ArticleImageArticleID=1519&amp;FileName=100.jpg</fragment>
+		<fragment type="image">http://www.doroga.ua/Handlers/ContentImageHandler.ashx?ArticleImageArticleID=1518&amp;FileName=100.jpg</fragment>
+		<fragment type="image">http://www.doroga.ua/Handlers/ContentImageHandler.ashx?ArticleImageArticleID=1517&amp;FileName=200.jpg</fragment>
+		<fragment type="image">http://www.doroga.ua/Handlers/ContentImageHandler.ashx?ArticleImageArticleID=1516&amp;FileName=200.jpg</fragment>
+		<fragment type="image">http://www.doroga.ua/Handlers/ContentImageHandler.ashx?ArticleImageArticleID=1515&amp;FileName=200.jpg</fragment>
+		<fragment type="image">http://www.doroga.ua/Handlers/ContentImageHandler.ashx?ArticleImageArticleID=1514&amp;FileName=80.jpg</fragment>
+		<fragment type="image">http://www.doroga.ua/Handlers/ContentImageHandler.ashx?ArticleImageArticleID=1513&amp;FileName=80.jpg</fragment>
+		<fragment type="image">http://www.doroga.ua/Handlers/ContentImageHandler.ashx?ArticleImageArticleID=1512&amp;FileName=80.jpg</fragment>
+		<fragment type="image">http://www.doroga.ua/Handlers/ContentImageHandler.ashx?ArticleImageArticleID=1511&amp;FileName=91.jpg</fragment>
+		<fragment type="image">http://c.bigmir.net/?v16793771&amp;s16793771&amp;t3</fragment>
+		<fragment type="image">http://top100-images.rambler.ru/top100/banner-88x31-rambler-black2.gif</fragment>
+		<fragment type="image">http://www.doroga.ua/Images/Loading.gif</fragment>
+		<fragment type="image">http://counter.rambler.ru/top100.cnt?1970450</fragment>
+		<fragment type="text">НАСЕЛЕННЫЙ ПУНКТ</fragment>
+		<fragment type="text">ДОСТОПРИМЕЧАТЕЛЬНОСТИ</fragment>
+		<fragment type="text">ГОСТИНИЦЫ</fragment>
+		<fragment type="text">РЕСТОРАНЫ</fragment>
+		<fragment type="text">ОТЧЕТЫ</fragment>
+		<fragment type="text">СТО</fragment>
+		<fragment type="text">Область</fragment>
+		<fragment type="text">Район</fragment>
+		<fragment type="text">Населенный пункт</fragment>
+		<fragment type="text">СПИСОК</fragment>
+		<fragment type="text">НА КАРТЕ</fragment>
+		<fragment type="text">OK</fragment>
+		<fragment type="text">МОЙ МАРШРУТ</fragment>
+		<fragment type="text">Маршрут не задан.</fragment>
+		<fragment type="text">(Вы можете добавить в маршрут любой населенный пункт или объект каталога нажав на линк &quot;Добавить в маршрут&quot;)</fragment>
+		<fragment type="text">ПОСТРОИТЬ</fragment>
+		<fragment type="text">OK</fragment>
+		<fragment type="text">Добавлена: 21 марта 2018 г.</fragment>
+		<fragment type="text">Добавлена: 12 марта 2018 г.</fragment>
+		<fragment type="text">Добавлена: 7 марта 2018 г.</fragment>
+		<fragment type="text">Добавлена: 5 марта 2018 г.</fragment>
+		<fragment type="text">Добавлена: 2 марта 2018 г.</fragment>
+		<fragment type="text">Добавлена: 27 февраля 2018 г.</fragment>
+		<fragment type="text">2</fragment>
+		<fragment type="text">Добавлена: 23 февраля 2018 г.</fragment>
+		<fragment type="text">Добавлена: 16 февраля 2018 г.</fragment>
+		<fragment type="text">Добавлена: 14 февраля 2018 г.</fragment>
+		<fragment type="text">Добавлена: 12 февраля 2018 г.</fragment>
+		<fragment type="text">Отображать:</fragment>
+		<fragment type="text">КАЛЕНДАРЬ СОБЫТИЙ</fragment>
+		<fragment type="text">Загружается...</fragment>
+		<fragment type="text">ПОСЛЕДНИЕ ОТЗЫВЫ</fragment>
+		<fragment type="text">Загружается...</fragment>
+		<fragment type="text">Статьи:</fragment>
+		<fragment type="text">Статьи:</fragment>
+		<fragment type="text">Статьи:</fragment>
+		<fragment type="text">Copyright © 2009-2018 &quot;Дорога.УА&quot;. Все права защищены.</fragment>
+		<fragment type="text">Использование материалов Doroga.UA разрешается при условии ссылки (для интернет-изданий - гиперссылки) на</fragment>
+		<fragment type="text">Doroga.UA. Перепечатка, копирование, а также любое другое воспроизведение информации, не содержащей ссылку на Doroga.UA,</fragment>
+		<fragment type="text">строго запрещено. Материалы, отмеченные знаком &quot;Реклама&quot;, публикуются на правах рекламы.</fragment>
+		<fragment type="text">Загружается...</fragment>
+	</page>
+	<page url="http://www.doroga.ua/Pages/ForeignCountries.aspx">
+		<fragment type="image">http://www.doroga.ua/Images/logo.png</fragment>
+		<fragment type="image">http://www.doroga.ua/Images/Temp/SearchButton.jpg</fragment>
+		<fragment type="image">http://www.doroga.ua/Images/ColoredLine.gif</fragment>
+		<fragment type="image">http://www.doroga.ua/Handlers/ContentImageHandler.ashx?ReportImageReportID=1984&amp;FileName=DSCN1866.JPG</fragment>
+		<fragment type="image">http://www.doroga.ua/Handlers/ContentImageHandler.ashx?ReportImageReportID=1982&amp;FileName=MyCollages.jpg</fragment>
+		<fragment type="image">http://www.doroga.ua/Handlers/ContentImageHandler.ashx?ReportImageReportID=1981&amp;FileName=Zastavka_resize.jpg</fragment>
+		<fragment type="image">http://www.doroga.ua/Handlers/ContentImageHandler.ashx?ReportImageReportID=1972&amp;FileName=DSCF4830.JPG</fragment>
+		<fragment type="image">http://www.doroga.ua/Handlers/ContentImageHandler.ashx?ReportImageReportID=1978&amp;FileName=1.jpg</fragment>
+		<fragment type="image">http://www.doroga.ua/Handlers/ContentImageHandler.ashx?ArticleImageArticleID=1488&amp;FileName=0f7cdd9-prigara-1-txt-ok.jpg</fragment>
+		<fragment type="image">http://c.bigmir.net/?v16793771&amp;s16793771&amp;t3</fragment>
+		<fragment type="image">http://top100-images.rambler.ru/top100/banner-88x31-rambler-black2.gif</fragment>
+		<fragment type="image">http://www.doroga.ua/Images/Loading.gif</fragment>
+		<fragment type="image">http://counter.rambler.ru/top100.cnt?1970450</fragment>
+		<fragment type="text">НАСЕЛЕННЫЙ ПУНКТ</fragment>
+		<fragment type="text">ДОСТОПРИМЕЧАТЕЛЬНОСТИ</fragment>
+		<fragment type="text">ГОСТИНИЦЫ</fragment>
+		<fragment type="text">РЕСТОРАНЫ</fragment>
+		<fragment type="text">ОТЧЕТЫ</fragment>
+		<fragment type="text">СТО</fragment>
+		<fragment type="text">18 марта 2018 г.,</fragment>
+		<fragment type="text">Продолжительность: 3 дня</fragment>
+		<fragment type="text">Пробег: 1350 км</fragment>
+		<fragment type="text">3</fragment>
+		<fragment type="text">11</fragment>
+		<fragment type="text">5</fragment>
+		<fragment type="text">6</fragment>
+		<fragment type="text">2</fragment>
+		<fragment type="text">2</fragment>
+		<fragment type="text">1</fragment>
+		<fragment type="text">3</fragment>
+		<fragment type="text">5</fragment>
+		<fragment type="text">78</fragment>
+		<fragment type="text">9</fragment>
+		<fragment type="text">44</fragment>
+		<fragment type="text">278</fragment>
+		<fragment type="text">15</fragment>
+		<fragment type="text">16</fragment>
+		<fragment type="text">25</fragment>
+		<fragment type="text">КАЛЕНДАРЬ СОБЫТИЙ</fragment>
+		<fragment type="text">Загружается...</fragment>
+		<fragment type="text">ПОСЛЕДНИЕ ОТЗЫВЫ</fragment>
+		<fragment type="text">Загружается...</fragment>
+		<fragment type="text">Страна:</fragment>
+		<fragment type="text">Страна:</fragment>
+		<fragment type="text">Страна:</fragment>
+		<fragment type="text">Copyright © 2009-2018 &quot;Дорога.УА&quot;. Все права защищены.</fragment>
+		<fragment type="text">Использование материалов Doroga.UA разрешается при условии ссылки (для интернет-изданий - гиперссылки) на</fragment>
+		<fragment type="text">Doroga.UA. Перепечатка, копирование, а также любое другое воспроизведение информации, не содержащей ссылку на Doroga.UA,</fragment>
+		<fragment type="text">строго запрещено. Материалы, отмеченные знаком &quot;Реклама&quot;, публикуются на правах рекламы.</fragment>
+		<fragment type="text">Загружается...</fragment>
+	</page>
+	<page url="http://www.doroga.ua/Pages/Events.aspx">
+		<fragment type="image">http://www.doroga.ua/Images/logo.png</fragment>
+		<fragment type="image">http://www.doroga.ua/Images/Temp/SearchButton.jpg</fragment>
+		<fragment type="image">http://www.doroga.ua/Images/ColoredLine.gif</fragment>
+		<fragment type="image">http://www.doroga.ua/Images/TitleLogo.gif</fragment>
+		<fragment type="image">http://c.bigmir.net/?v16793771&amp;s16793771&amp;t3</fragment>
+		<fragment type="image">http://top100-images.rambler.ru/top100/banner-88x31-rambler-black2.gif</fragment>
+		<fragment type="image">http://www.doroga.ua/Images/Loading.gif</fragment>
+		<fragment type="image">http://counter.rambler.ru/top100.cnt?1970450</fragment>
+		<fragment type="text">НАСЕЛЕННЫЙ ПУНКТ</fragment>
+		<fragment type="text">ДОСТОПРИМЕЧАТЕЛЬНОСТИ</fragment>
+		<fragment type="text">ГОСТИНИЦЫ</fragment>
+		<fragment type="text">РЕСТОРАНЫ</fragment>
+		<fragment type="text">ОТЧЕТЫ</fragment>
+		<fragment type="text">СТО</fragment>
+		<fragment type="text">Область</fragment>
+		<fragment type="text">Район</fragment>
+		<fragment type="text">Населенный пункт</fragment>
+		<fragment type="text">СПИСОК</fragment>
+		<fragment type="text">НА КАРТЕ</fragment>
+		<fragment type="text">OK</fragment>
+		<fragment type="text">МОЙ МАРШРУТ</fragment>
+		<fragment type="text">Маршрут не задан.</fragment>
+		<fragment type="text">(Вы можете добавить в маршрут любой населенный пункт или объект каталога нажав на линк &quot;Добавить в маршрут&quot;)</fragment>
+		<fragment type="text">ПОСТРОИТЬ</fragment>
+		<fragment type="text">OK</fragment>
+		<fragment type="text">ВСЕ СОБЫТИЯ</fragment>
+		<fragment type="text">Солнце, горы, снег и музыка нон-стоп - легендарный фестиваль Z-Games снова будет представлен в снежной версии.</fragment>
+		<fragment type="text">С 21 по 31 марта в Сумах будет проходить всеукраинский театральный фестиваль &quot;Чеховфест&quot;.</fragment>
+		<fragment type="text">В конце марта во Львове стартует VIII Фестиваль писанок, который превратит город в настоящий музей писанки под открытым небом. Финальная часть фестиваля запланирована на 15 апреля.</fragment>
+		<fragment type="text">В День смеха 1 апреля в Одессе проходит традиционная &quot;Юморина&quot; с первоапрельским карнавальным шествием и фестивалем клоунов &quot;Комедиада&quot;.</fragment>
+		<fragment type="text">Театрализованно-художественный праздник “Фестиваль писанки” пройдет в Киеве в рамках Пасхальных праздников.</fragment>
+		<fragment type="text">В 2018 году православная Пасха приходится на 8 апреля. Выходными будут три дня подряд - суббота, воскресенье и понедельник. В городах Украины на праздник Пасхи пройдут народные гуляния.</fragment>
+		<fragment type="text">Через неделю после Пасхи, 14-15 апреля, в Коломые пройдет XI всеукраинский фестиваль &quot;Писанка 2018&quot;, который призван сохранить и приумножить национальные традиции народного искусства писанковой росписи.</fragment>
+		<fragment type="text">Со второй половины апреля на Певческом поле в Киеве традиционно проходит городская выставка тюльпанов.</fragment>
+		<fragment type="text">Седьмой николаевский гастрономический фестиваль &quot;НикФест&quot; во второй половине апреля.</fragment>
+		<fragment type="text">23 апреля на Прикарпатье пройдет VI фестиваль &quot;Галицкая брама&quot;, где будут воспроизведены пасхальные обычаи и традиции Галичины.</fragment>
+		<fragment type="text">Отображать:</fragment>
+		<fragment type="text">КАЛЕНДАРЬ СОБЫТИЙ</fragment>
+		<fragment type="text">Загружается...</fragment>
+		<fragment type="text">ПОСЛЕДНИЕ ОТЗЫВЫ</fragment>
+		<fragment type="text">Загружается...</fragment>
+		<fragment type="text">События:</fragment>
+		<fragment type="text">События:</fragment>
+		<fragment type="text">События:</fragment>
+		<fragment type="text">Copyright © 2009-2018 &quot;Дорога.УА&quot;. Все права защищены.</fragment>
+		<fragment type="text">Использование материалов Doroga.UA разрешается при условии ссылки (для интернет-изданий - гиперссылки) на</fragment>
+		<fragment type="text">Doroga.UA. Перепечатка, копирование, а также любое другое воспроизведение информации, не содержащей ссылку на Doroga.UA,</fragment>
+		<fragment type="text">строго запрещено. Материалы, отмеченные знаком &quot;Реклама&quot;, публикуются на правах рекламы.</fragment>
+		<fragment type="text">Загружается...</fragment>
+	</page>
+</data>
